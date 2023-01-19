@@ -1,11 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import CapturingUserClicks from './Components/CapturingUserClicks';
 
 function App() {
   return (
-    <div className="box">
-      <span className='box_text'>Hello World!</span>
-    </div>
+ <div>
+<CapturingUserClicks/>
+ </div>
   );
 }
 
