@@ -1,10 +1,10 @@
 import './App.css';
-import CapturingUserClicks from './Components/CapturingUserClicks';
-
+import JsonParse from './Components/JsonParse.js';
+// const numbers =['dog', 'cat', 'chicken', 'cow', 'sheep', 'horse'];
 function App() {
   return (
  <div>
-<CapturingUserClicks/>
+<JsonParse/>
  </div>
   );
 }
