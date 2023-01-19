@@ -1,4 +1,5 @@
 Exercise 1: Hello World!
+
 Every programming language starter tutorial teaches you how to output "Hello, World!" using the language.
 
 But this exercise is not just for tradition.
